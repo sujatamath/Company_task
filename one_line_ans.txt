@@ -1,0 +1,4 @@
+A. The reverse-i-search is use to find past commands.Besides using tab-autocompleting aggressively, I also use reverse-i-search all the time to search my command history.Activate reverse-i-search using Ctrl+r and then type in a query to find matches. Hit Clrl+r again to find the next match.
+B. The Is command lists the contents of the current directory. The -a Switch lists all files - including hidden files.
+C .Linux provides many advantages Over other operating systems.Open-source software available for everyone to contribute, modify, and enhance the source code.
+D. Currently, the two most popular web servers are Apache web servers I was used, Which come as a software stack including Linux, Apache, MySQL.
